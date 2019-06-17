@@ -1,0 +1,41 @@
+export const Names: string[] = [
+  'Dave',
+  'Stuart',
+  'Bob',
+  'Jerry',
+  'Carl',
+  'Kevin',
+  'Tim',
+  'Mark',
+  'Phil',
+  'Jon',
+  'Josh',
+  'Steve',
+  'Donny',
+  'Ken',
+  'Mike',
+  'Paul',
+  'Lance',
+  'Larry',
+  'Jorge',
+  'Tom',
+  'Norbert',
+  'Chris',
+  'Darwin',
+  'Mel',
+  'Alex',
+  'Dick',
+  'Harry',
+  'Herb'
+];
+
+export const Surnames: string[] = [
+  'One-eye',
+  'Two-eye',
+  'Spiky',
+  'Slim',
+  'Fat',
+  'Clump-hair',
+  'Flat-hair',
+  'Spiky-hair'
+];
