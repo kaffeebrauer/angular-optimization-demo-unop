@@ -1,6 +1,6 @@
 # Introduction
 
-Code for my talk "Optimizing an Angular Application".
+Code for my talk "Angular performance hacks and optimisation techniques".
 
 ## Instructions
 npm install
